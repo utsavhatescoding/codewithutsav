@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @codewithutsav
-- 👀 I’m interested in Web Desinging and data learning ...
-- 🌱 I’m currently learning .JavaScript..
-- 💞️ I’m looking to collaborate on .frontend design projects..
-- 📫 How to reach me .Dont reach me ..
+- 👋 Hi, This is Utsav here.
+- 👀 I’m interested in Web Desinging and data processing.
+- 🌱 I’m currently learning Machine Learning , Js.
+- 💞️ I’m looking to contribute the society at a larger scale using these technologies.
+- 📫 How to reach me : Dont reach me ..
 
 <!---
 codewithutsav/codewithutsav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
